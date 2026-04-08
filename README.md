@@ -9,7 +9,8 @@
   **Try my last project:** [🐙JSI](https://justbetter.me)
   
   **Currently building:**                                                                                                             
-  - [Apeiron AI](https://www.apeironai.eu) — and something new launching soon.
+  - [Apeiron AI](https://www.apeironai.eu)
+  -  and something new launching soon.
 
     
                                                                              
